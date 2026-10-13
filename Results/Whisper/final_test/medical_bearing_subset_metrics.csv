@@ -1,0 +1,2 @@
+model,setting,wer,cer,mwer,num_samples,medical_precision,medical_recall,medical_f1,medical_accuracy,medical_evaluated_samples,medical_tp,medical_fp,medical_fn
+Whisper-large-v3,fine_tuned_medical_bearing_subset,0.22219546797516626,0.17580650033226605,0.2695695037791653,2217,0.9953745150701283,0.7746617894675725,0.871257387272668,0.33062697338746055,2217,13342,62,3881

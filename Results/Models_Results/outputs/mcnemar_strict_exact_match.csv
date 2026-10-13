@@ -1,0 +1,4 @@
+model_a,model_b,both_correct,a_correct_b_wrong,a_wrong_b_correct,both_wrong,statistic,p_value,n
+Whisper,MedASR,214,519,47,1437,47.0,1.1902762926560475e-101,2217
+Whisper,Canary,278,455,74,1410,74.0,6.62284176395314e-68,2217
+MedASR,Canary,138,123,214,1742,123.0,8.169014178754786e-07,2217

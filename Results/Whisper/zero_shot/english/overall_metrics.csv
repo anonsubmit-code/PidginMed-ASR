@@ -1,0 +1,2 @@
+model,setting,prompt_mode,wer,cer,mwer,num_samples,medical_precision,medical_recall,medical_f1,medical_accuracy,medical_evaluated_samples,medical_tp,medical_fp,medical_fn
+openai/whisper-large-v3,zero_shot,english,1.0492382510740106,0.8017548901712537,0.9642290923503766,2223,0.9291084854994629,0.05052570093457944,0.09583956567503187,0.005009107468123861,2196,865,66,16255
