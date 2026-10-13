@@ -1,0 +1,14 @@
+{
+  "num_samples": 2245,
+  "wer": 0.29045259887480057,
+  "cer": 0.1440475387601256,
+  "mwer": 0.41839216459606915,
+  "mwer_evaluated_samples": 2217,
+  "medical_precision": 0.9904973357015986,
+  "medical_recall": 0.6476395099007026,
+  "medical_f1": 0.7831887925283522,
+  "medical_accuracy": 0.11637347767253045,
+  "medical_tp": 11153,
+  "medical_fp": 107,
+  "medical_fn": 6068
+}

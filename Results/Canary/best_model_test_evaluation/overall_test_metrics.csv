@@ -1,0 +1,2 @@
+﻿model,best_trial_name,learning_rate,weight_decay,max_epochs,validation_wer,test_wer,test_cer,test_mwer,medical_precision,medical_recall,medical_f1,medical_accuracy,test_samples
+Canary-180M-Flash Best Tuned Trial,canary_trial_01_lr_1e-05_wd_0.01_ep_5,1e-05,0.01,5,0.22887814471851184,0.2677225369306988,0.20814318578633037,0.32792721518987344,0.9919754887656843,0.7037573750129387,0.8233726914925826,0.4102449888641425,2245

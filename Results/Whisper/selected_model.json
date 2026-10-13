@@ -1,0 +1,5 @@
+{
+  "selected_model_path": "/content/drive/MyDrive/Brock_University/pidgindataset2026October/PidginMed-ASR/whisper/hyperparameter_search/trial_01/selected_model",
+  "selection_metric": "validation_wer",
+  "selection_value": 0.2737655048089234
+}
